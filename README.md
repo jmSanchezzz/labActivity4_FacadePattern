@@ -19,10 +19,7 @@ The **FrontDesk** class delegates client requests to the appropriate service cla
 
 ## UML Diagram (Text-Based)
 
-```
 <img width="3120" height="1708" alt="NLR (17)" src="https://github.com/user-attachments/assets/53264afb-6456-4992-9558-12a1a97930a6" />
-
-```
 
 ---
 
