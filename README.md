@@ -17,13 +17,8 @@ The **FrontDesk** class delegates client requests to the appropriate service cla
 
 ---
 
-## UML Diagram (Text-Based)
+## UML Diagram
 
 <img width="3120" height="1708" alt="NLR (17)" src="https://github.com/user-attachments/assets/53264afb-6456-4992-9558-12a1a97930a6" />
 
 ---
-
-## Design Pattern
-
-This implementation demonstrates the **Facade Pattern**, which provides a unified interface to a set of interfaces in a subsystem.
-The **FrontDesk** acts as a **facade**, simplifying interactions between the `HotelApp` (client) and various hotel services.
